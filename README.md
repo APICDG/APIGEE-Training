@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to APIGEE Training
 
 You can use the [editor on GitHub](https://github.com/SSSiddhika/APIGEE-Training/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
