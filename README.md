@@ -16,9 +16,8 @@
 3.[Fault handling](http://docs.apigee.com/api-services/content/fault-handling)
 
 4.[Deploying proxies](http://docs.apigee.com/api-services/content/deploying-proxies-ui)
-    
-    
-[Developer Portal(http://docs.apigee.com/developer-services/content/what-developer-portal)
+      
+[Developer Portal](http://docs.apigee.com/developer-services/content/what-developer-portal)
 
 ### Apigee features
 
