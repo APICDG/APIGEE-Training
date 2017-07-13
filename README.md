@@ -9,7 +9,7 @@
 
 [Apigee Edge](http://docs.apigee.com/api-services/content/what-apigee-edge)
 
-    1.[Create first API Proxy](http://docs.apigee.com/tutorials/add-and-configure-your-first-api)
+   1.[Create first API Proxy](http://docs.apigee.com/tutorials/add-and-configure-your-first-api)
 
 2.[Add Policies](http://docs.apigee.com/tutorials/add-policies-your-api)
 
