@@ -3,7 +3,7 @@
 ### Basic of API
 [What is API?](http://docs.apigee.com/api-services/content/understanding-apis-and-api-proxies) 
 
-###Starting with APIGEE
+### Starting with APIGEE
 
 [Create an Account](http://docs.apigee.com/api-services/content/creating-apigee-edge-account)
 
