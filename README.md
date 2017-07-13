@@ -5,10 +5,11 @@
 
 Starting with APIGEE
 
-```markdown
-[Create an Account](- http://docs.apigee.com/api-services/content/creating-apigee-edge-account)
+[Create an Account](http://docs.apigee.com/api-services/content/creating-apigee-edge-account)
 
 [Apigee Edge](http://docs.apigee.com/api-services/content/what-apigee-edge)
+
+
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the con
