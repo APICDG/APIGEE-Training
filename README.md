@@ -9,10 +9,13 @@
 
 [Apigee Edge](http://docs.apigee.com/api-services/content/what-apigee-edge)
 
-1.[Create first API Proxy](http://docs.apigee.com/tutorials/add-and-configure-your-first-api)
-[Add Policies](http://docs.apigee.com/tutorials/add-policies-your-api)
-[Fault handling](http://docs.apigee.com/api-services/content/fault-handling)
-[Deploying proxies](http://docs.apigee.com/api-services/content/deploying-proxies-ui)
+    1.[Create first API Proxy](http://docs.apigee.com/tutorials/add-and-configure-your-first-api)
+
+2.[Add Policies](http://docs.apigee.com/tutorials/add-policies-your-api)
+
+3.[Fault handling](http://docs.apigee.com/api-services/content/fault-handling)
+
+4.[Deploying proxies](http://docs.apigee.com/api-services/content/deploying-proxies-ui)
     
     
 [Developer Portal(http://docs.apigee.com/developer-services/content/what-developer-portal)
