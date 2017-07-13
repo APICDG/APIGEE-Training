@@ -36,14 +36,16 @@
 ### Apigee Architecture
 
 ![High Level View](/High Level View.png)
+
 ![Detail Level View](/Detail Level View.png)
 
 ### Samples - (https://github.com/apigee/api-platform-samples.)
 
+### Videos
 
-### Videos 
+(Fundamentals of RESTful API Design:) http://academy.apigee.com/courses/elearning/fundamentals-restful-api-design
 
-•	(Fundamentals of RESTful API Design:) http://academy.apigee.com/courses/elearning/fundamentals-restful-api-design
-•	(Foundational Training:) http://academy.apigee.com/courses/elearning/foundation_training
-•	(Edge Developer Bootcamp:)  http://academy.apigee.com/courses/elearning/Edge_developer_bootcamp
+(Foundational Training:) http://academy.apigee.com/courses/elearning/foundation_training
+
+(Edge Developer Bootcamp:)  http://academy.apigee.com/courses/elearning/Edge_developer_bootcamp
 
