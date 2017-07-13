@@ -1,7 +1,11 @@
 ## Welcome to APIGEE Training
 
 You can use the [What is API?](http://docs.apigee.com/api-services/content/understanding-apis-and-api-proxies) to maintain and preview the content for your website in Markdown files.
-
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
