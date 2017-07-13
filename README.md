@@ -9,7 +9,7 @@
 
 [Apigee Edge](http://docs.apigee.com/api-services/content/what-apigee-edge)
 
-   1.[Create first API Proxy](http://docs.apigee.com/tutorials/add-and-configure-your-first-api)
+1.[Create first API Proxy](http://docs.apigee.com/tutorials/add-and-configure-your-first-api)
 
 2.[Add Policies](http://docs.apigee.com/tutorials/add-policies-your-api)
 
@@ -23,12 +23,17 @@
 ### Apigee features
 
    [Analytics](http://docs.apigee.com/analytics-services/content/analytics-services-overview)
+   
    [Monetization](http://docs.apigee.com/monetization/content/configure-monetization-developer-portal)
+   
    [Security](http://docs.apigee.com/api-services/content/api-security)
+   
    [caching](http://docs.apigee.com/api-services/content/caching-edge)
+   
    [Monitoring](http://docs.apigee.com/api-services/content/using-trace-tool-0)
+   
    [Developer Portal](http://docs.apigee.com/developer-services/content/what-developer-portal)
-    
+       
 ### Apigee Architecture
 
 ![Image](src)
