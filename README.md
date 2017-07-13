@@ -3,44 +3,39 @@
 ### Basic of API
 [What is API?](http://docs.apigee.com/api-services/content/understanding-apis-and-api-proxies) 
 
-Starting with APIGEE
+###Starting with APIGEE
 
 [Create an Account](http://docs.apigee.com/api-services/content/creating-apigee-edge-account)
 
 [Apigee Edge](http://docs.apigee.com/api-services/content/what-apigee-edge)
 
+    1. [Create first API Proxy] (http://docs.apigee.com/tutorials/add-and-configure-your-first-api)
+    2. [Add Policies] (http://docs.apigee.com/tutorials/add-policies-your-api)
+    3. [Fault handling] (- http://docs.apigee.com/api-services/content/fault-handling)
+    3.[Deploying proxies] (http://docs.apigee.com/api-services/content/deploying-proxies-ui)
+    
+    
+[Developer Portal(http://docs.apigee.com/developer-services/content/what-developer-portal)
+
+### Apigee features
+
+    1. [Analytics](http://docs.apigee.com/analytics-services/content/analytics-services-overview)
+    2. [Monetization](http://docs.apigee.com/monetization/content/configure-monetization-developer-portal)
+    3. [Security](http://docs.apigee.com/api-services/content/api-security)
+    4. [caching](http://docs.apigee.com/api-services/content/caching-edge)
+    5. [Monitoring](http://docs.apigee.com/api-services/content/using-trace-tool-0)
+    6. [Developer Portal](http://docs.apigee.com/developer-services/content/what-developer-portal)
+    
+### Apigee Architecture
+
+![Image](src)
+
+### Samples - (https://github.com/apigee/api-platform-samples.)
 
 
+### Videos 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the con
+•	(Fundamentals of RESTful API Design:) http://academy.apigee.com/courses/elearning/fundamentals-restful-api-design
+•	(Foundational Training:) http://academy.apigee.com/courses/elearning/foundation_training
+•	(Edge Developer Bootcamp:)  http://academy.apigee.com/courses/elearning/Edge_developer_bootcamp
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SSSiddhika/APIGEE-Training/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
