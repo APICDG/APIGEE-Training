@@ -35,7 +35,7 @@
        
 ### Apigee Architecture
 
-![Detail Level View](/Detail Level View.png)
+[Detail Level View](/Detail Level View.png)
 
 ### Samples - (https://github.com/apigee/api-platform-samples.)
 
