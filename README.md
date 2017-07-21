@@ -28,7 +28,7 @@ You need an account to use Apigee Edge. You can create your own or an administra
 
 #### **Apigee Edge** 
 
-	Apigee Edge is a platform for developing and managing API proxies. 
+Apigee Edge is a platform for developing and managing API proxies.
 For API-building, Apigee provides tools for adding and configuring user’s API proxies, setting up API products, and managing app developers and client apps. Apigee Edge is the flagship API management product in Apigee’s intelligent API platform. It provides a solution that addresses the entire digital value chain—from the backend systems of record through to the customer who interacts with an app or digital experience delivered by an API-powered mobile app or a connected device. 
 Apigee Edge includes three components: Gateway Services, Developer Services, and Analytics Services.[...more](http://docs.apigee.com/api-services/content/what-apigee-edge)
 
