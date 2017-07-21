@@ -37,16 +37,19 @@ Apigee Edge includes three components: Gateway Services, Developer Services, and
 | [Create Your First API Proxy](http://docs.apigee.com/tutorials/add-and-configure-your-first-api)  Build an API proxy with a Hello World-style tutorial.| [Add policies ](http://docs.apigee.com/tutorials/add-policies-your-api) Add functionality with the logic pieces of API proxies.|[Proxy a SOAP Service](http://docs.apigee.com/tutorials/proxy-soap-service) Puts a RESTful API between client and SOAP services.                          
 | [Create an API proxy from an OpenAPI Specification](http://docs.apigee.com/tutorials/create-api-proxy-openapi-spec) Learn how to import an OpenAPI specification to generate API proxies. | [Secure an API with API keys](http://docs.apigee.com/tutorials/secure-calls-your-api-through-api-key-validation) Build a proxy with the most basic component of API security -- the API key. | [Secure an API with OAuth](http://docs.apigee.com/tutorials/secure-calls-your-api-through-oauth-20-client-credentials) Secure an API proxy with OAuth, in which user credentials are traded for a unique token. |
 
+2. **Apigee Baas** 
 
+Edge Developer Services includes a backend-as-a-service (BaaS) solution that provides developers with access to a flexible data store and enables you to quickly integrate valuable features into your app, including social graphs, user management, data storage, push notifications, performance monitoring, and more.
 
+Using API BaaS, you can set up your own cloud-based data platform in minutes instead of months – no server-side coding or back-end development needed. This allows your team to focus on developing the rich features and user experience that truly differentiate your app, rather than on the time-consuming details of implementing core back-end services and infrastructure.[...more](http://docs.apigee.com/api-baas)
 
-
-       
 ### Apigee Architecture
 
-![High Level View](/High Level View.png)
-
 ![Detail Level View](/Detail Level View.png)
+
+### Apigee Platform
+
+![High Level View](/High Level View.png)
 
 ### Samples - (https://github.com/apigee/api-platform-samples.)
 
