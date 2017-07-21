@@ -26,7 +26,7 @@ You need an account to use Apigee Edge. You can create your own or an administra
 [Steps to Create an Account](http://docs.apigee.com/api-services/content/creating-apigee-edge-account)
 #### **Components of APIGEE**
 
- **Apigee Edge** 
+ #### **Apigee Edge** 
 
 	Apigee Edge is a platform for developing and managing API proxies. 
 For API-building, Apigee provides tools for adding and configuring user’s API proxies, setting up API products, and managing app developers and client apps. Apigee Edge is the flagship API management product in Apigee’s intelligent API platform. It provides a solution that addresses the entire digital value chain—from the backend systems of record through to the customer who interacts with an app or digital experience delivered by an API-powered mobile app or a connected device. 
@@ -56,6 +56,8 @@ Using API BaaS, you can set up your own cloud-based data platform in minutes ins
 Apigee provides a set of samples on GitHub that you can download and run locally. For a list of samples, see [Sample References](https://github.com/apigee/api-platform-samples.)
 
 ### **Videos**
+
+[![Fundamentals of RESTful API Design](https://img.youtube.com/vi/T-D1KVIuvjA/0.jpg)](http://academy.apigee.com/courses/elearning/fundamentals-restful-api-design)
 
 [Fundamentals of RESTful API Design](http://academy.apigee.com/courses/elearning/fundamentals-restful-api-design)
 
