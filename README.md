@@ -1,8 +1,7 @@
 ## Welcome to APIGEE Training
 
 #### **What is API?**
-APIs are services that user wants to expose so that app developers can consume them to use in their mobile or web applications.These APIs are exposed as a set of HTTP endpoints.Response will be either XML or JSON.    
-  [...more](http://docs.apigee.com/api-services/content/understanding-apis-and-api-proxies) 
+APIs are services that user wants to expose so that app developers can consume them to use in their mobile or web applications.These APIs are exposed as a set of HTTP endpoints.Response will be either XML or JSON.[...more](http://docs.apigee.com/api-services/content/understanding-apis-and-api-proxies) 
 
 #### **Why APIGEE (API Management Tool)?**
 
@@ -17,8 +16,8 @@ This is where APIGEE comes into picture by providing above features and letting 
 
 ### **Apigee features**
 
-   | :chart_with_upwards_trend: [Analytics](http://docs.apigee.com/analytics-services/content/analytics-services-overview).| :moneybag:  [Monetization](http://docs.apigee.com/monetization/content/configure-monetization-developer-portal).| :closed_lock_with_key: [Security](http://docs.apigee.com/api-services/content/api-security)   
-   | :baggage_claim: [caching](http://docs.apigee.com/api-services/content/caching-edge).| :alarm_clock: [Monitoring](http://docs.apigee.:chart_with_upwards_trend:com/api-services/content/using-trace-tool-0).| :customs: [Developer Portal](http://docs.apigee.com/developer-services/content/what-developer-portal)
+   | :chart_with_upwards_trend: [Analytics](http://docs.apigee.com/analytics-services/content/analytics-services-overview)| :moneybag:  [Monetization](http://docs.apigee.com/monetization/content/configure-monetization-developer-portal)| :closed_lock_with_key: [Security](http://docs.apigee.com/api-services/content/api-security)   
+   | :baggage_claim: [caching](http://docs.apigee.com/api-services/content/caching-edge)| :alarm_clock: [Monitoring](http://docs.apigee.:chart_with_upwards_trend:com/api-services/content/using-trace-tool-0)| :customs: [Developer Portal](http://docs.apigee.com/developer-services/content/what-developer-portal)
 
 
 #### **Getting Started with APIGEE**
