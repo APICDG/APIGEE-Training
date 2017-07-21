@@ -17,8 +17,8 @@ This is where APIGEE comes into picture by providing above features and letting 
 
 ### Apigee features
 
-   | :chart_with_upwards_trend:[Analytics](http://docs.apigee.com/analytics-services/content/analytics-services-overview).| :moneybag:[Monetization](http://docs.apigee.com/monetization/content/configure-monetization-developer-portal).| :closed_lock_with_key:[Security](http://docs.apigee.com/api-services/content/api-security)   
-   | :baggage_claim:[caching](http://docs.apigee.com/api-services/content/caching-edge).| :alarm_clock:[Monitoring](http://docs.apigee.:chart_with_upwards_trend:com/api-services/content/using-trace-tool-0).| :customs:[Developer Portal](http://docs.apigee.com/developer-services/content/what-developer-portal)
+   | :chart_with_upwards_trend: [Analytics](http://docs.apigee.com/analytics-services/content/analytics-services-overview).| :moneybag:  [Monetization](http://docs.apigee.com/monetization/content/configure-monetization-developer-portal).| :closed_lock_with_key: [Security](http://docs.apigee.com/api-services/content/api-security)   
+   | :baggage_claim: [caching](http://docs.apigee.com/api-services/content/caching-edge).| :alarm_clock: [Monitoring](http://docs.apigee.:chart_with_upwards_trend:com/api-services/content/using-trace-tool-0).| :customs: [Developer Portal](http://docs.apigee.com/developer-services/content/what-developer-portal)
 
 
 #### **Getting Started with APIGEE**
