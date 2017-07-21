@@ -25,7 +25,7 @@ This is where APIGEE comes into picture by providing above features and letting 
 You need an account to use Apigee Edge. You can create your own or an administrator can create one for you.The new user is automatically added to the administrator's organization.
 [Steps to Create an Account](http://docs.apigee.com/api-services/content/creating-apigee-edge-account)
 #### **Components of APIGEE**
-![High Level View](/High Level View.png)
+
  1. **Apigee Edge** 
 
 	Apigee Edge is a platform for developing and managing API proxies. 
