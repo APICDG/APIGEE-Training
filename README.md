@@ -17,15 +17,15 @@ This is where APIGEE comes into picture by providing above features and letting 
 
 ### Apigee features
 
-   | [Analytics](http://docs.apigee.com/analytics-services/content/analytics-services-overview).| [Monetization](http://docs.apigee.com/monetization/content/configure-monetization-developer-portal).| [Security](http://docs.apigee.com/api-services/content/api-security)   
-   | [caching](http://docs.apigee.com/api-services/content/caching-edge).| [Monitoring](http://docs.apigee.com/api-services/content/using-trace-tool-0).| [Developer Portal](http://docs.apigee.com/developer-services/content/what-developer-portal)
+   | ![A](/Analytics.png)[Analytics](http://docs.apigee.com/analytics-services/content/analytics-services-overview).| ![B](/Analytics.png)[Monetization](http://docs.apigee.com/monetization/content/configure-monetization-developer-portal).| ![C](/Analytics.png)[Security](http://docs.apigee.com/api-services/content/api-security)   
+   | ![D](/Analytics.png)[caching](http://docs.apigee.com/api-services/content/caching-edge).| ![E](/Analytics.png)[Monitoring](http://docs.apigee.com/api-services/content/using-trace-tool-0).| ![F](/Analytics.png)[Developer Portal](http://docs.apigee.com/developer-services/content/what-developer-portal)
 
 
 #### **Getting Started with APIGEE**
 You need an account to use Apigee Edge. You can create your own or an administrator can create one for you.The new user is automatically added to the administrator's organization.
 [Steps to Create an Account](http://docs.apigee.com/api-services/content/creating-apigee-edge-account)
 #### **Components of APIGEE**
-
+![High Level View](/High Level View.png)
  1. **Apigee Edge** 
 
 	Apigee Edge is a platform for developing and managing API proxies. 
