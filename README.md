@@ -7,10 +7,12 @@ APIs are services that user wants to expose so that app developers can consume t
 #### **Why APIGEE (API Management Tool)?**
 
 API providers make their services available over the web, they must ensure that they have taken all necessary steps to secure and protect their services from unauthorized access. A service provider should consider the following points:
-**Security** - How will you control access to your services to prevent unauthorized access?
-**Compatibility** - Will your services work across different platforms and devices?
-**Measurability** - How can you monitor your services to make sure they are available?
-**Monetization** - How can you track and bill customers for access to your services?
+
+1. How will you control access to your services to prevent unauthorized access?
+2. Will your services work across different platforms and devices?
+3. How can you monitor your services to make sure they are available?
+4. How can you track and bill customers for access to your services?
+
 This is where APIGEE comes into picture by providing above features and letting the API provider concentrate on making his APIs available on web.
 
 #### **Getting Started with APIGEE**
@@ -26,7 +28,7 @@ Apigee Edge includes three components: Gateway Services, Developer Services, and
 
 #### Get started
 
-| [Create Your First API Proxy](http://docs.apigee.com/tutorials/add-and-configure-your-first-api)  Build an API proxy with a Hello World-style tutorial.| [Add policies ](http://docs.apigee.com/tutorials/add-policies-your-api)                  Add functionality with the logic pieces of API proxies.|[Proxy a SOAP Service](http://docs.apigee.com/tutorials/proxy-soap-service) Puts a RESTful API between client and SOAP services.                          
+| [Create Your First API Proxy](http://docs.apigee.com/tutorials/add-and-configure-your-first-api)  Build an API proxy with a Hello World-style tutorial.| [Add policies ](http://docs.apigee.com/tutorials/add-policies-your-api) Add functionality with the logic pieces of API proxies.|[Proxy a SOAP Service](http://docs.apigee.com/tutorials/proxy-soap-service) Puts a RESTful API between client and SOAP services.                          
 | [Create an API proxy from an OpenAPI Specification](http://docs.apigee.com/tutorials/create-api-proxy-openapi-spec) Learn how to import an OpenAPI specification to generate API proxies. | [Secure an API with API keys](http://docs.apigee.com/tutorials/secure-calls-your-api-through-api-key-validation) Build a proxy with the most basic component of API security -- the API key. | [Secure an API with OAuth](http://docs.apigee.com/tutorials/secure-calls-your-api-through-oauth-20-client-credentials) Secure an API proxy with OAuth, in which user credentials are traded for a unique token. |
 
 
