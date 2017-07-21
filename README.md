@@ -26,7 +26,7 @@ Apigee Edge includes three components: Gateway Services, Developer Services, and
 
 ####Get started
 
-|[Create Your First API Proxy](http://docs.apigee.com/tutorials/add-and-configure-your-first-api)  Build an API proxy with a Hello World-style tutorial.                   |                    [Add policies ](http://docs.apigee.com/tutorials/add-policies-your-api) Add functionality with the logic pieces of API proxies.                   |                          [Proxy a SOAP Service](http://docs.apigee.com/tutorials/proxy-soap-service) Puts a RESTful API between client and SOAP services.                          
+| [Create Your First API Proxy](http://docs.apigee.com/tutorials/add-and-configure-your-first-api)  Build an API proxy with a Hello World-style tutorial.| [Add policies ](http://docs.apigee.com/tutorials/add-policies-your-api) Add functionality with the logic pieces of API proxies.|[Proxy a SOAP Service](http://docs.apigee.com/tutorials/proxy-soap-service) Puts a RESTful API between client and SOAP services.                          
 | [Create an API proxy from an OpenAPI Specification](http://docs.apigee.com/tutorials/create-api-proxy-openapi-spec) Learn how to import an OpenAPI specification to generate API proxies. | [Secure an API with API keys](http://docs.apigee.com/tutorials/secure-calls-your-api-through-api-key-validation) Build a proxy with the most basic component of API security -- the API key. | [Secure an API with OAuth](http://docs.apigee.com/tutorials/secure-calls-your-api-through-oauth-20-client-credentials) Secure an API proxy with OAuth, in which user credentials are traded for a unique token. |
 
 
