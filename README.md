@@ -15,6 +15,12 @@ API providers make their services available over the web, they must ensure that 
 
 This is where APIGEE comes into picture by providing above features and letting the API provider concentrate on making his APIs available on web.
 
+### Apigee features
+
+   | [Analytics](http://docs.apigee.com/analytics-services/content/analytics-services-overview).| [Monetization](http://docs.apigee.com/monetization/content/configure-monetization-developer-portal).| Security](http://docs.apigee.com/api-services/content/api-security)   
+   | caching](http://docs.apigee.com/api-services/content/caching-edge).| [Monitoring](http://docs.apigee.com/api-services/content/using-trace-tool-0).| [Developer Portal](http://docs.apigee.com/developer-services/content/what-developer-portal)
+
+
 #### **Getting Started with APIGEE**
 You need an account to use Apigee Edge. You can create your own or an administrator can create one for you.The new user is automatically added to the administrator's organization.
 [Steps to Create an Account](http://docs.apigee.com/api-services/content/creating-apigee-edge-account)
@@ -34,19 +40,7 @@ Apigee Edge includes three components: Gateway Services, Developer Services, and
 
 
 
-### Apigee features
 
-   [Analytics](http://docs.apigee.com/analytics-services/content/analytics-services-overview)
-   
-   [Monetization](http://docs.apigee.com/monetization/content/configure-monetization-developer-portal)
-   
-   [Security](http://docs.apigee.com/api-services/content/api-security)
-   
-   [caching](http://docs.apigee.com/api-services/content/caching-edge)
-   
-   [Monitoring](http://docs.apigee.com/api-services/content/using-trace-tool-0)
-   
-   [Developer Portal](http://docs.apigee.com/developer-services/content/what-developer-portal)
        
 ### Apigee Architecture
 
