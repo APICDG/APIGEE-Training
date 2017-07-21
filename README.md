@@ -17,8 +17,8 @@ This is where APIGEE comes into picture by providing above features and letting 
 
 ### Apigee features
 
-   | [Analytics](http://docs.apigee.com/analytics-services/content/analytics-services-overview).| [Monetization](http://docs.apigee.com/monetization/content/configure-monetization-developer-portal).| Security](http://docs.apigee.com/api-services/content/api-security)   
-   | caching](http://docs.apigee.com/api-services/content/caching-edge).| [Monitoring](http://docs.apigee.com/api-services/content/using-trace-tool-0).| [Developer Portal](http://docs.apigee.com/developer-services/content/what-developer-portal)
+   | [Analytics](http://docs.apigee.com/analytics-services/content/analytics-services-overview).| [Monetization](http://docs.apigee.com/monetization/content/configure-monetization-developer-portal).| [Security](http://docs.apigee.com/api-services/content/api-security)   
+   | [caching](http://docs.apigee.com/api-services/content/caching-edge).| [Monitoring](http://docs.apigee.com/api-services/content/using-trace-tool-0).| [Developer Portal](http://docs.apigee.com/developer-services/content/what-developer-portal)
 
 
 #### **Getting Started with APIGEE**
