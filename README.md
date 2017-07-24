@@ -62,21 +62,21 @@ Knowing where and how to deliver value to your clients with Apigee requires a de
 
 **Who Should Attend SE Bootcamp?** 
 ```
-Solutions architects that are positioning solutions with your clients - however, business team members
-(client partners, relationship mangers, program managers, etc.) will also find the sessions
-leading up to the hands-on labs useful, as they cover many business topics such as market trends,
-solution overview, value proposition, use-cases, and competitive positioning.
+Solutions architects that are positioning solutions with your clients - however, business 
+team members (client partners, relationship mangers, program managers, etc.) will also find 
+the sessions leading up to the hands-on labs useful, as they cover many business topics such 
+as market trends,solution overview, value proposition, use-cases, and competitive positioning.
 ```
 
 **Profile for ideal Solutions architect**
 ```
-* Hands-on familiarity with middleware, web services technologies, and security standards (oAuth, SAML)
-* Good hands-on development experience with Java and good background on other languages like JavaScript
-  ,Python, PHP and other API related technologies.
-* Exposure to cloud technologies such as Apache Cassandra and AWS and mobile app development including 
-  Android and iOS SDKs
+* Hands-on familiarity with middleware,web services technologies and security standards(oAuth,SAML)
+* Good hands-on development experience with Java and good background on other languages like 
+  JavaScript,Python, PHP and other API related technologies.
+* Exposure to cloud technologies such as Apache Cassandra and AWS and mobile app development 
+  including Android and iOS SDKs
 * Experience building and delivering proofs of concept (PoCs) independently and effectively.
-* The ability to lead architecture discussions around deployment topologies, scaling , performance 
+* The ability to lead architecture discussions around deployment topologies, scaling,performance 
   & sizing
  
 ```
