@@ -58,12 +58,12 @@ Apigee provides a set of samples on GitHub that you can download and run locally
 
 #### **ONLINE SE BOOTCAMP (PRE-SALES) **
 
-**Why SE Bootcamp Training?: **  
+ **Why SE Bootcamp Training?: **  
 Knowing where and how to deliver value to your clients with Apigee requires a deep knowledge of the Apigee Edge platform. Apigee SE Bootcamp is designed to impart the knowledge necessary for your architects to hunt and identify, scope, and win projects utilizing Apigee. 
 
-**Fees: ** This training is offered at no charge - free. 
+ **Fees: ** This training is offered at no charge - free. 
 
-**Who Should Attend SE Bootcamp?: ** Solutions architects that are positioning solutions with your clients - however, business team members (client partners, relationship mangers, program managers, etc.) will also find the sessions leading up to the hands-on labs useful, as they cover many business topics such as market trends, solution overview, value proposition, use-cases, and competitive positioning. 
+ **Who Should Attend SE Bootcamp?: ** Solutions architects that are positioning solutions with your clients - however, business team members (client partners, relationship mangers, program managers, etc.) will also find the sessions leading up to the hands-on labs useful, as they cover many business topics such as market trends, solution overview, value proposition, use-cases, and competitive positioning. 
 
 ** Profile for ideal Solutions architect **
 •	Hands-on familiarity with middleware, web services technologies, and security standards (oAuth, SAML)
@@ -74,7 +74,7 @@ Knowing where and how to deliver value to your clients with Apigee requires a de
 •	The ability to lead architecture discussions around deployment topologies, scaling & performance & sizing
    SE BOOTCAMP DESCRIPTION 
 
-** What is Online SE Bootcamp?: ** - 
+ ** What is Online SE Bootcamp?: ** - 
 The Online SE Bootcamp is delivered as series of webinars and recorded sessions that students can consume at their own pace.  
 At a high level, the bootcamp covers:
 •	Market trends, why Apigee, where Apigee fits, value Apigee delivers
@@ -99,13 +99,13 @@ Walk away with the latest thinking, the tools and know-how to create, manage and
 •	[Edge Developer Bootcamp](http://academy.apigee.com/courses/elearning/Edge_developer_bootcamp)
 This is an advanced developer course for Edge developers. The course covers topics like, advanced proxy development, API security, Node.js and API BaaS.
 
-** Training Fees: ** Free
+ ** Training Fees: ** Free
 
-** CERTIFICATION (POST-SALES / DELIVERY) **
+ ** CERTIFICATION (POST-SALES / DELIVERY) **
 
 [Click here for L1 and L2 Certification](http://academy.apigee.com/courses/certification)
 
-** Fees: **  
+ ** Fees: **  
 Each attempt at the Level 1 exam is $100. 
 Each attempt at the Level 2 exam is $400. 
 You cannot take the test more than 3 times without clearance from education@apigee.com.
