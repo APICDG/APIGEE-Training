@@ -72,27 +72,29 @@ such as market trends, solution overview, value proposition, use-cases, and comp
 
 **Profile for ideal Solutions architect**
 ```
-Hands-on familiarity with middleware, web services technologies, and security standards (oAuth, SAML)
-Good hands-on development experience with Java and good background on other languages like JavaScript, Python, PHP and other API
-related technologies
-Exposure to cloud technologies such as Apache Cassandra and AWS and mobile app development including Android and iOS SDKs
-Experience building and delivering proofs of concept (PoCs) independently and effectively
-The ability to lead architecture discussions around deployment topologies, scaling & performance & sizing
+1. Hands-on familiarity with middleware, web services technologies, and security standards (oAuth, SAML)
+2. Good hands-on development experience with Java and good background on other languages like JavaScript,
+Python, PHP and other API related technologies.
+3. Exposure to cloud technologies such as Apache Cassandra and AWS and mobile app development including 
+Android and iOS SDKs
+4. Experience building and delivering proofs of concept (PoCs) independently and effectively.
+5. The ability to lead architecture discussions around deployment topologies, scaling , performance & sizing
  
 ```
 **What is Online SE Bootcamp?** - 
 
-```
 The Online SE Bootcamp is delivered as series of webinars and recorded sessions that students can consume at their own pace.
-At a high level, the bootcamp covers:
-Market trends, why Apigee, where Apigee fits, value Apigee delivers
-A clear technical overview of Apigee's key differentiators
-Apigee architecture overview
-A detailed overview of Apigee Edge product functionality
-Hands-on labs  covering API Services, Developer Services, and Analytics Services
-The many facets of API management, including security, API traffic management, versioning, documentation, reporting, and analytics
 ```
-[Click to Register](https://se-bootcamp.apigee.net/login)
+1. At a high level, the bootcamp covers:
+2. Market trends, why Apigee, where Apigee fits, value Apigee delivers
+3. A clear technical overview of Apigee's key differentiators
+4. Apigee architecture overview
+5. A detailed overview of Apigee Edge product functionality
+6. Hands-on labs  covering API Services, Developer Services, and Analytics Services
+7.The many facets of API management, including security, API traffic management, 
+versioning, documentation, reporting, and analytics
+```
+[Click here for SE Bootcamp Registration](https://se-bootcamp.apigee.net/login)
 
 ### **DEVELOPER TRAINING (POST-SALES / DELIVERY)**
 
