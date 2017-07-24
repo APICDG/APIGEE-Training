@@ -19,6 +19,9 @@ This is where APIGEE comes into picture by providing above features and letting 
    | :chart_with_upwards_trend: [Analytics](http://docs.apigee.com/analytics-services/content/analytics-services-overview)| :moneybag:  [Monetization](http://docs.apigee.com/monetization/content/configure-monetization-developer-portal)| :closed_lock_with_key: [Security](http://docs.apigee.com/api-services/content/api-security)   
    | :baggage_claim: [caching](http://docs.apigee.com/api-services/content/caching-edge)| :alarm_clock: [Monitoring](http://docs.apigee.:chart_with_upwards_trend:com/api-services/content/using-trace-tool-0)| :customs: [Developer Portal](http://docs.apigee.com/developer-services/content/what-developer-portal)
 
+### **Apigee Platform**
+
+![High Level View](/High Level View.png)
 
 #### **Getting Started with APIGEE**
 You need an account to use Apigee Edge. You can create your own or an administrator can create one for you.The new user is automatically added to the administrator's organization.
@@ -46,10 +49,6 @@ Using API BaaS, you can set up your own cloud-based data platform in minutes ins
 
 ![Detail Level View](/Detail Level View.png)
 
-### **Apigee Platform**
-
-![High Level View](/High Level View.png)
-
 ### **Using the sample API proxies**
 
 Apigee provides a set of samples on GitHub that you can download and run locally. For a list of samples, see [Sample References](https://github.com/apigee/api-platform-samples.)
@@ -63,21 +62,22 @@ Knowing where and how to deliver value to your clients with Apigee requires a de
 
 **Who Should Attend SE Bootcamp?** 
 ```
-Solutions architects that are positioning solutions with your clients - however, business team members 
-(client partners, relationship mangers, program managers, etc.) will also find the sessions 
-leading up to the hands-on labs useful, as they cover many business topics such as market trends, 
+Solutions architects that are positioning solutions with your clients - however, business team members
+(client partners, relationship mangers, program managers, etc.) will also find the sessions
+leading up to the hands-on labs useful, as they cover many business topics such as market trends,
 solution overview, value proposition, use-cases, and competitive positioning.
 ```
 
 **Profile for ideal Solutions architect**
 ```
 * Hands-on familiarity with middleware, web services technologies, and security standards (oAuth, SAML)
-* Good hands-on development experience with Java and good background on other languages like JavaScript,
-  Python, PHP and other API related technologies.
+* Good hands-on development experience with Java and good background on other languages like JavaScript
+  ,Python, PHP and other API related technologies.
 * Exposure to cloud technologies such as Apache Cassandra and AWS and mobile app development including 
   Android and iOS SDKs
 * Experience building and delivering proofs of concept (PoCs) independently and effectively.
-* The ability to lead architecture discussions around deployment topologies, scaling , performance & sizing
+* The ability to lead architecture discussions around deployment topologies, scaling , performance 
+  & sizing
  
 ```
 **What is Online SE Bootcamp?** - 
