@@ -56,40 +56,44 @@ Apigee provides a set of samples on GitHub that you can download and run locally
 
 ### **Self-Paced training**
 
-```
 #### **ONLINE SE BOOTCAMP (PRE-SALES)**
 
- **Why SE Bootcamp Training?:**  
+**Why SE Bootcamp Training?:**  
 Knowing where and how to deliver value to your clients with Apigee requires a deep knowledge of the Apigee Edge platform. Apigee SE Bootcamp is designed to impart the knowledge necessary for your architects to hunt and identify, scope, and win projects utilizing Apigee. 
 
 **Fees:** This training is offered at no charge - free. 
 
-**Who Should Attend SE Bootcamp?:** Solutions architects that are positioning solutions with your clients - however, business team members (client partners, relationship mangers, program managers, etc.) will also find the sessions leading up to the hands-on labs useful, as they cover many business topics such as market trends, solution overview, value proposition, use-cases, and competitive positioning. 
+**Who Should Attend SE Bootcamp?:** 
+```
+Solutions architects that are positioning solutions with your clients - however, business team members (client partners, relationship mangers, program managers, etc.) will also find the sessions leading up to the hands-on labs useful, as they cover many business topics such as market trends, solution overview, value proposition, use-cases, and competitive positioning. 
+```
 
 **Profile for ideal Solutions architect**
-•	Hands-on familiarity with middleware, web services technologies, and security standards (oAuth, SAML)
-•	Good hands-on development experience with Java and good background on other languages like JavaScript, Python, PHP and other API 
-   related technologies
-•	Exposure to cloud technologies such as Apache Cassandra and AWS and mobile app development including Android and iOS SDKs
-•	Experience building and delivering proofs of concept (PoCs) independently and effectively
-•	The ability to lead architecture discussions around deployment topologies, scaling & performance & sizing
-   SE BOOTCAMP DESCRIPTION 
+```
+Hands-on familiarity with middleware, web services technologies, and secur```y standards (oAuth, SAML)
+Good hands-on development experience with Java and good background on other languages like JavaScript, Python, PHP and other API 
+related technologies
+Exposure to cloud technologies such as Apache Cassandra and AWS and mobile app development including Android and iOS SDKs
+Experience building and delivering proofs of concept (PoCs) independently and effectively
+The ability to lead architecture discussions around deployment topologies, scaling & performance & sizing
+SE BOOTCAMP DESCRIPTION 
+```
+**What is Online SE Bootcamp?:** - ```
 
-**What is Online SE Bootcamp?:** - 
+```
 The Online SE Bootcamp is delivered as series of webinars and recorded sessions that students can consume at their own pace.  
 At a high level, the bootcamp covers:
-•	Market trends, why Apigee, where Apigee fits, value Apigee delivers
-•	A clear technical overview of Apigee's key differentiators
-•	Apigee architecture overview
-•	A detailed overview of Apigee Edge product functionality
-•	Hands-on labs  covering API Services, Developer Services, and Analytics Services
-•	The many facets of API management, including security, API traffic management, versioning, documentation, reporting, and analytics
-
+Market trends, why Apigee, where Apigee fits, value Apigee delivers
+A clear technical overview of Apigee's key differentiators
+Apigee architecture overview
+A detailed overview of Apigee Edge product functionality
+Hands-on labs  covering API Services, Developer Services, and Analytics Services
+The many facets of API management, including security, API traffic management, versioning, documentation, reporting, and analytics
+```
 [Click to Register](https://se-bootcamp.apigee.net/login)
 
-```
 
-```
+
 ### **DEVELOPER TRAINING (POST-SALES / DELIVERY)**
 
 A detailed description + instructions to register and get started are provided at the following links:
