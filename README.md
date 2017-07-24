@@ -61,38 +61,37 @@ Apigee provides a set of samples on GitHub that you can download and run locally
 **Why SE Bootcamp Training?**  
 Knowing where and how to deliver value to your clients with Apigee requires a deep knowledge of the Apigee Edge platform. Apigee SE Bootcamp is designed to impart the knowledge necessary for your architects to hunt and identify, scope, and win projects utilizing Apigee. 
 
-**Fees:** This training is offered at no charge - free. 
-
 **Who Should Attend SE Bootcamp?** 
 ```
-Solutions architects that are positioning solutions with your clients - however, business team members (client partners, relationship
-mangers, program managers, etc.) will also find the sessions leading up to the hands-on labs useful, as they cover many business topics
-such as market trends, solution overview, value proposition, use-cases, and competitive positioning.
+Solutions architects that are positioning solutions with your clients - however, business team members 
+(client partners, relationship mangers, program managers, etc.) will also find the sessions 
+leading up to the hands-on labs useful, as they cover many business topics such as market trends, 
+solution overview, value proposition, use-cases, and competitive positioning.
 ```
 
 **Profile for ideal Solutions architect**
 ```
-1. Hands-on familiarity with middleware, web services technologies, and security standards (oAuth, SAML)
-2. Good hands-on development experience with Java and good background on other languages like JavaScript,
-Python, PHP and other API related technologies.
-3. Exposure to cloud technologies such as Apache Cassandra and AWS and mobile app development including 
-Android and iOS SDKs
-4. Experience building and delivering proofs of concept (PoCs) independently and effectively.
-5. The ability to lead architecture discussions around deployment topologies, scaling , performance & sizing
+* Hands-on familiarity with middleware, web services technologies, and security standards (oAuth, SAML)
+* Good hands-on development experience with Java and good background on other languages like JavaScript,
+  Python, PHP and other API related technologies.
+* Exposure to cloud technologies such as Apache Cassandra and AWS and mobile app development including 
+  Android and iOS SDKs
+* Experience building and delivering proofs of concept (PoCs) independently and effectively.
+* The ability to lead architecture discussions around deployment topologies, scaling , performance & sizing
  
 ```
 **What is Online SE Bootcamp?** - 
 
 The Online SE Bootcamp is delivered as series of webinars and recorded sessions that students can consume at their own pace.
 ```
-1. At a high level, the bootcamp covers:
-2. Market trends, why Apigee, where Apigee fits, value Apigee delivers
-3. A clear technical overview of Apigee's key differentiators
-4. Apigee architecture overview
-5. A detailed overview of Apigee Edge product functionality
-6. Hands-on labs  covering API Services, Developer Services, and Analytics Services
-7.The many facets of API management, including security, API traffic management, 
-versioning, documentation, reporting, and analytics
+* At a high level, the bootcamp covers:
+* Market trends, why Apigee, where Apigee fits, value Apigee delivers
+* A clear technical overview of Apigee's key differentiators
+* Apigee architecture overview
+* A detailed overview of Apigee Edge product functionality
+* Hands-on labs  covering API Services, Developer Services, and Analytics Services
+* The many facets of API management, including security, API traffic management,versioning, 
+  documentation, reporting, and analytics
 ```
 [Click here for SE Bootcamp Registration](https://se-bootcamp.apigee.net/login)
 
@@ -109,17 +108,6 @@ Walk away with the latest thinking, the tools and know-how to create, manage and
 •	[Edge Developer Bootcamp](http://academy.apigee.com/courses/elearning/Edge_developer_bootcamp)
 This is an advanced developer course for Edge developers. The course covers topics like, advanced proxy development, API security, Node.js and API BaaS.
 
- **Training Fees:** Free
-
  **CERTIFICATION (POST-SALES / DELIVERY)**
 
 [Click here for L1 and L2 Certification](http://academy.apigee.com/courses/certification)
-
- **Fees:**
-```
-Each attempt at the Level 1 exam is $100. 
-Each attempt at the Level 2 exam is $400. 
-You cannot take the test more than 3 times without clearance from education@apigee.com.
-```
-
-
